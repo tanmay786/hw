@@ -1,3 +1,2 @@
 echo "Hello From Branch 1"
-echo "Hello From Master"
 echo "new feature"
